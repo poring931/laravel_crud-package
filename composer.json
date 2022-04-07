@@ -1,0 +1,24 @@
+{
+    "name": "poring931/posts",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "poring931",
+            "email": "poring.m@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Poring931\\Posts\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Poring931\\Posts\\Providers\\PostsServiceProvider"
+            ]
+        }
+    }
+}
