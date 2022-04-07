@@ -1,6 +1,6 @@
 ## пакет ларавел CRUD
 
-### Установка
+### Установка : composer require poring931/posts
 
 - composer require poring931/posts
 
